@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello World -- super simple!\n");
+    printf("Hello World -- simple-cprov!\n");
     return 0;
 }
