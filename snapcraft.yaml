@@ -1,5 +1,5 @@
 name: simple-cprov
-version: 1.00
+version: 1.01
 summary: This is a test snap
 description: This is a test snap
 confinement: strict
